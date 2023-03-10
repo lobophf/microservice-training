@@ -1,0 +1,12 @@
+*.project
+*.classpath
+*.factorypath
+*.project
+*.settings
+*.gradle
+*.jar
+*.bin
+*.class
+*.class.*
+*.properties
+*resolvedMainClassName
