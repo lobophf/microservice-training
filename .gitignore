@@ -3,10 +3,15 @@
 *.factorypath
 *.project
 *.settings
-*.gradle
 *.jar
 *.bin
 *.class
 *.class.*
 *.properties
 *resolvedMainClassName
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
